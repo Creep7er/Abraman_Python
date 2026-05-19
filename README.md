@@ -8,29 +8,29 @@
 
 
 ### TO-DO
-[ ] Оформление репозитория
-[ ] Оформление Readme
-[ ] Оформить структуру файлов
+- [ ] Оформление репозитория
+- [ ] Оформление Readme
+- [ ] Оформить структуру файлов
 **Черновые**
-[x] Begin
-[x] If 
-[x] Boolean
-[x] For
-[x] While
-[x] Minmax
-[ ] Series
-[x] Array
-[x] Matrix
-[ ] String
-[ ] File
+-[x] Begin
+- [x] If 
+- [x] Boolean
+- [x] For
+- [x] While
+- [x] Minmax
+- [ ] Series
+- [x] Array
+- [x] Matrix
+- [ ] String
+- [ ] File
 **Чистовые**
-[ ] Begin
-[ ] If 
-[ ] Boolean
-[ ] For
-[ ] While
-[ ] Minmax
-[ ] Series
-[ ] Array
-[ ] Matrix
-[ ] String
+- [ ] Begin
+- [ ] If 
+- [ ] Boolean
+- [ ] For
+- [ ] While
+- [ ] Minmax
+- [ ] Series
+- [ ] Array
+- [ ] Matrix
+- [ ] String
