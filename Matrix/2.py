@@ -1,0 +1,13 @@
+M = int(input("M? "))
+N = int(input("N? "))
+
+matrix = []
+
+for m in range(1, M+1):
+    row = []
+    for n in range(1, N+1):
+        row.append(5*m)
+    matrix.append(row)
+
+for m in range(M):
+    print(matrix[m])
